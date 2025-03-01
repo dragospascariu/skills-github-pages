@@ -1,7 +1,5 @@
-# Welcome to My Website  
-
 ## About Me  
-Hi! I'm [Your Name], and this is my little corner of the internet. Here, I share my thoughts, projects, and anything else that sparks my curiosity.  
+Hi! I'm Dragos, and this is my little corner of the internet. Here, I share my thoughts, projects, and anything else that sparks my curiosity.  
 
 ## What You'll Find Here  
 - **Blog Posts** – Insights, tutorials, and stories on topics I'm passionate about.  
