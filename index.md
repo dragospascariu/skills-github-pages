@@ -1,3 +1,5 @@
+# Welcome to my website
+
 ## About Me  
 Hi! I'm Dragos, and this is my little corner of the internet. Here, I share my thoughts, projects, and anything else that sparks my curiosity.  
 
